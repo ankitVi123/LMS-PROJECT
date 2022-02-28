@@ -1,0 +1,42 @@
+<html>
+    <head>
+<style>
+    td
+    {
+        width: 75pt;
+        height: 80pt;
+    }
+    .id
+    {
+        font-size: 40pt;
+        background-color:aqua;
+    }
+</style>
+    </head>
+<body>
+<table border="1" >
+<tr class="id">
+   <td colspan="4">Anudip foundation</td>
+   
+</tr>
+    <ol >
+    <td rowspan="2" style="background-color: violet;">Girls <ol><li>Parvati </li><li>Sita </li></ol></td>
+    
+</ol>
+    <td colspan="2" style="background-color: violet;"><img src="Image/flower.jpg" alt="icon"> </td>
+    <td style="background-color: violet;"><a href="Boys">Boys</a></td>
+
+ </tr>
+ <tr>
+    <td colspan="3" style="background-color: violet;"></td>
+    
+ </tr>
+ <tr style="background-color: violet;">
+    <td>Boys<ul><li>Shubham</li> <li>Rajesh</li></ul></td>
+    <td><a href="http://www.youtube.com">YouTube</a></td>
+    <td><a href="http://www.w3school.com">technology</a></td>
+    <td><a href="http://www.javapoint.com">Take new</a></td>
+ </tr>
+</table>
+</body>
+</html>
